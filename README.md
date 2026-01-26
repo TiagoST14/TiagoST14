@@ -31,9 +31,9 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** pela **INSTED** e apa
 ### 🔭 Projeto em Destaque
 
 #### 🎁 [SiteCha](https://github.com/TiagoST14/SiteCha)
-*Plataforma web desenvolvida para gerenciamento de listas de presentes e confirmação de presença.*
+*Plataforma web desenvolvida para gerenciamento de listas de presentes.*
 - **Objetivo:** Facilitar a organização e interação dos convidados com o evento.
-- **Tecnologias:** Desenvolvido com **C# / ASP.NET** (Backend) e **JavaScript** (Frontend).
+- **Tecnologias:** Desenvolvido com **C# / ASP.NET** (Backend) e **JavaScript** (Frontend) **MongoDB** (Banco De Dados).
 - **Destaque:** Foco em usabilidade e organização de dados.
 
 ---
